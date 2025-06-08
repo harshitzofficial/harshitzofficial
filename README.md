@@ -29,7 +29,7 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 
 ## 🚀 Problem Solving Profiles
 
-- 🧠 - [LinkedIn](https://linkedin.com/in/harshitofficial) 
+- 🧠 [LeetCode](https://leetcode.com/harshitofficial)  
 - 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/harshitunpa/)
 ---
 
