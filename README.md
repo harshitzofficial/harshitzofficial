@@ -28,18 +28,15 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 
 ## 🚀 Problem Solving Profiles
 
-- 🧠 [LeetCode](https://leetcode.com/harshitofficial)
-- 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/harshitunpa/)
+### 🧠 [LeetCode](https://leetcode.com/harshitofficial)
+
+
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/harshitofficial?theme=dark&ext=heatmap)](https://leetcode.com/harshitofficial/)
 
 ---
 
-## 📊 LeetCode Stats
+### 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/harshitunpa/)
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Harshit-orange?style=flat-square&logo=leetcode)](https://leetcode.com/harshitofficial)
-
-### 🔥 Submission Heatmap (Last 52 Weeks)
-
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/harshitofficial?theme=dark&ext=heatmap)](https://leetcode.com/harshitofficial/)
 
 
 
