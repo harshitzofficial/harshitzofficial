@@ -30,6 +30,7 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 
 ### 🧠 [LeetCode](https://leetcode.com/harshitofficial)
 
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Harshit-orange?style=flat-square&logo=leetcode)](https://leetcode.com/harshitofficial)
 
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/harshitofficial?theme=dark&ext=heatmap)](https://leetcode.com/harshitofficial/)
 
