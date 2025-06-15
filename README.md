@@ -31,10 +31,10 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 
 - 🧠 [LeetCode](https://leetcode.com/harshitofficial)  
 - 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/harshitunpa/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-Harshit-orange?style=flat&logo=leetcode)](https://leetcode.com/u/harshitofficial/)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/harshitofficial?ext=heatmap&theme=dark)
 
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Harshit-orange?style=flat&logo=leetcode)](https://leetcode.com/u/harshitofficial/)
-![LeetCode Stats](https://leetcard.jacoblin.cool/harshitofficial?theme=dark)
 
 
 
