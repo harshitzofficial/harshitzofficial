@@ -34,6 +34,8 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Harshit-orange?style=flat&logo=leetcode)](https://leetcode.com/u/harshitofficial/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/harshitofficial?theme=dark)
+
 
 
 
