@@ -34,8 +34,6 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/harshitofficial?theme=dark&ext=heatmap)](https://leetcode.com/harshitofficial/)
 
----
-
 ### 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/harshitunpa/)
 
 
