@@ -9,7 +9,7 @@ I have a strong passion for **problem-solving** and regularly practice data stru
 
 ## 💻 My Tech Stack:
 
-**WEB DEV:** HTML5, CSS3, JavaScript, TypeScript, React  
+**WEB DEV:** HTML5, CSS3, JavaScript
 **LANGUAGES:** C++,Python,SQL  
 **ML:** Numpy,Matplotlib  
 **Other Tools:** Git, GitHub,Excel-advance
