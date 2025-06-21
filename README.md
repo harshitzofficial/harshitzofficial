@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=harshitzofficial)
 
 # Hi there, I'm Harshit Singh! 👋
 
