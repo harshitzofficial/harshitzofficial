@@ -38,11 +38,22 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 
 ### 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/harshitunpa/)
 
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshitzofficial&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harshitzofficial&theme=apprentice&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitzofficial&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=harshitzofficial&icon=0&color=9)](https://visitcount.itsvg.in)
 
+---
 
+<!-- Snake Game Repo View -->
 
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ---
