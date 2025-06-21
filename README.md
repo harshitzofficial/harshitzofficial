@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+
 # Hi there, I'm Harshit Singh! 👋
 
 ## About Me
