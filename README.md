@@ -43,7 +43,18 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitzofficial&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ---
+## 🔗 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/harshit-singh-7a209a282/)  
+- 📧 harshit.official.281005@gmail.com  
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -51,14 +62,6 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 </div>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
-
-
-## 🔗 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/harshit-singh-7a209a282/)  
-- 📧 harshit.official.281005@gmail.com  
