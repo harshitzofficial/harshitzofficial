@@ -44,24 +44,17 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitzofficial&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshitzofficial&icon=0&color=9)](https://visitcount.itsvg.in)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshitzofficial&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshitzofficial&limit=5&theme=holi&combine_all_yearly_contributions=true)
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 
