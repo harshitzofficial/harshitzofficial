@@ -24,7 +24,7 @@ Thank you for visiting my profile. Let’s connect and collaborate!
 
 ## 🛠️ Technologies and Tools
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,mysql,git,github,py)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,py)
 
 ---
 
