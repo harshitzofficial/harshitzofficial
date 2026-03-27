@@ -7,24 +7,7 @@ Hello! I'm Harshit Singh, an enthusiastic techie. Currently pursuing a BTech in 
 
 I have a strong passion for **problem-solving** and regularly practice data structures and algorithms on competitive coding platforms to sharpen my skills.
 
----
 
-## 💻 My Tech Stack:
-
-**WEB DEV:** HTML5, CSS3, JavaScript   
-**LANGUAGES:** C++,Python,SQL  
-**ML:** Numpy,Matplotlib  
-**Other Tools:** Git, GitHub,Excel-advance
-
----
-
-Thank you for visiting my profile. Let’s connect and collaborate!
-
----
-
-## 🛠️ Technologies and Tools
-
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,py)
 
 ---
 
