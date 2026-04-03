@@ -209,13 +209,8 @@ Hello! I'm **Harshit Singh**, an enthusiastic techie currently pursuing a BTech 
 <div align="center">
 
 <!-- Snake Contribution Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/harshitzofficial/harshitzofficial/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/harshitzofficial/harshitzofficial/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=harshitzofficial&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/harshitzofficial?style=social)
 
 </div>
 
