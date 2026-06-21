@@ -45,7 +45,7 @@ Hello! I'm **Harshit Singh**, an enthusiastic techie currently pursuing a BTech 
   <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/harshitofficial">
+<a href="https://leetcode.com/harshitzofficial">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;&nbsp;
