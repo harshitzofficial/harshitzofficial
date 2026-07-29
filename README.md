@@ -33,15 +33,15 @@ technology and education.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[HirePrep AI](https://github.com/harshitzofficial)** &nbsp;·&nbsp; <samp>react, node.js, redis, gemini</samp><br>
+**[HirePrep AI](https://github.com/harshitzofficial/-HirePrep-AI)** &nbsp;·&nbsp; <samp>react, node.js, redis, gemini</samp><br>
 AI-powered interview-prep platform with real-time voice mock-interviews.<br>
 Minimized API costs via Redis caching and optimized latency to ~50ms.
 
-**[Code-Sync](https://github.com/harshitzofficial)** &nbsp;·&nbsp; <samp>react, webrtc, docker, redis</samp><br>
+**[Code-Sync](https://github.com/harshitzofficial/SYNC-CODE)** &nbsp;·&nbsp; <samp>react, webrtc, docker, redis</samp><br>
 Real-time collaborative IDE with sandboxed multi-user code execution.<br>
 Zero-latency A/V calling and live cursor tracking for up to 5 concurrent users.
 
-**[Promptly](https://github.com/harshitzofficial)** &nbsp;·&nbsp; <samp>wxt, react, ai apis</samp><br>
+**[Promptly](https://github.com/harshitzofficial/Promptly)** &nbsp;·&nbsp; <samp>wxt, react, ai apis</samp><br>
 Chrome extension for in-place prompt optimization using ChatGPT/Claude/Gemini.<br>
 Universal SSE streaming parser with background service workers for real-time delivery.
 
