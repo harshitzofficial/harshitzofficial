@@ -50,15 +50,27 @@ Deep diving into advanced system design and cloud technologies.
 
 </div>
 
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+<div align="center">
 
-Every graphic here is generated, not embedded from anyone else's server.<br>
-`ascii.svg` is a photo pushed through a character ramp by<br>
-[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
-these section headings are drawn by [a scheduled action](.github/workflows/refresh-stats.yml)<br>
-straight from the GitHub GraphQL API, once a day, committing only what changed.
+<br/>
 
-They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
-READMEs — and since nothing loads from a third party, nothing here can<br>
-rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
-strips CSS, so an image is the only way to put this page's own typeface on them.
+![Profile Views](https://komarev.com/ghpvc/?username=harshitzofficial&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/harshitzofficial?label=Followers&style=for-the-badge&color=58A6FF&logo=github)](https://github.com/harshitzofficial)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/harshitzofficial?label=Total%20Stars&style=for-the-badge&color=58A6FF&logo=github)
+
+<br/><br/>
+
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitzofficial/harshitzofficial/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitzofficial/harshitzofficial/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshitzofficial/harshitzofficial/output/dist/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
