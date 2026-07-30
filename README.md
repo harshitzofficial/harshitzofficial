@@ -59,9 +59,6 @@ Universal SSE streaming parser with background service workers for real-time del
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshitzofficial&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/harshitzofficial?label=Followers&style=for-the-badge&color=58A6FF&logo=github)](https://github.com/harshitzofficial)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/harshitzofficial?label=Total%20Stars&style=for-the-badge&color=58A6FF&logo=github)
 
 <br/><br/>
 
